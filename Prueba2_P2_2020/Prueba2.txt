@@ -1,0 +1,22 @@
+Moving Sprite
+=============
+
+1. Utilizar las teclas del cursor para mover un sprite
+   en pantalla
+
+2. Implementar pen-up y pen-down utilizando la tecla 'b'
+   En modo pen-up el sprite no dibuja nada, pero tampoco
+   borra lo que esta en la pantalla.  En modo pen-down
+   dibuja en la pantalla.
+
+3. No se debe esperar a que se libere una tecla para comenza
+   a actuar. Debe actuar de manera continua pero con una 
+   pausa. Elija el tiempo de pausa en milisegundos.
+   
+4. Implementar al menos una funcion llamada move_sprite, que
+   reciba como parametros la posicion inicial del sprite.
+
+Nota: Puede utilizar cualquier recurso de tareas que USTED
+      haya implementado.  NO utilice codigo que usted NO 
+      implemento, excepto el codigo que se le provee como
+      parte de la prueba.
